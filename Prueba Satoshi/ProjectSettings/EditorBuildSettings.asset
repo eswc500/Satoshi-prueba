@@ -24,9 +24,12 @@ EditorBuildSettings:
     path: Assets/Scenes/POPUP3.unity
     guid: 5898d3b8976b8ed4c99f1ffbb1dd0689
   - enabled: 0
-    path: Assets/__DELETED_GUID_Trash/4b75de09db434be4b8bb358eabcafc5e
-    guid: 4b75de09db434be4b8bb358eabcafc5e
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/__DELETED_GUID_Trash/8186adfcf1b5277439d26721196014ad
+    guid: 8186adfcf1b5277439d26721196014ad
   - enabled: 1
     path: Assets/Scenes/POPUP5.unity
-    guid: 8186adfcf1b5277439d26721196014ad
+    guid: 804f1bf9d73a56849874ab3a154280f9
   m_configObjects: {}
